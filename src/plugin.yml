@@ -1,0 +1,4 @@
+name: EnderDisable
+main: me.te3.enderdisable.EnderDisable
+version: 0.1
+description: prevent endermen from removing and placing blocks
